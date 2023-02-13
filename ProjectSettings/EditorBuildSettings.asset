@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 6912208fb6703cb44ace8feaf49c188c
+  - enabled: 1
+    path: Assets/Scenes/Play.unity
+    guid: e05cd04ab0947e541adf876ec8845368
+  - enabled: 1
+    path: Assets/Scenes/HowTo.unity
+    guid: 80052d89d52c2904e953e3b0fd8bb0e2
+  - enabled: 1
+    path: Assets/Scenes/HomeTablets.unity
+    guid: 845798a6e44be7341b56c425cc79421f
+  - enabled: 1
+    path: Assets/Scenes/PlayTablet.unity
+    guid: 3bf9d80a69109e642ad7a6ef27a6032e
+  - enabled: 1
+    path: Assets/Scenes/HowTotablet.unity
+    guid: a1ac60c02bb27c34585280d4f614c76d
+  m_configObjects: {}
